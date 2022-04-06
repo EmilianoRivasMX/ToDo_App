@@ -5,7 +5,7 @@ I made this project to practice some basic concepts of javascript, like arrow fu
 
 You can see the demo on https://emilianorivasmx.github.io/ToDo_App/
 
-This project was build using the following technologies:
+This project was built using the following technologies:
 * Javascript
 * HTML
 * Bootstrap
