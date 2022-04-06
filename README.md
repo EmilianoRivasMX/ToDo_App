@@ -1,6 +1,6 @@
 # To-Do App 📝
 
-Don´t forget anything with this simple app for write you To-Dos. 
+Don´t forget anything with this simple app to write you To-Dos. 
 I made this project to practice some basic concepts of javascript, like arrow functions, OOP and localstorage.
 
 You can see the demo on https://emilianorivasmx.github.io/ToDo_App/
