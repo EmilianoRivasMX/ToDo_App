@@ -1,6 +1,7 @@
-# ToDo_App 📝
+# To-Do App 📝
 
-Don´t forget anything with this simple app for write you To-Dos. I made this project to practice some basic concepts of javascript, like arrow functions, OOP and localstorage.
+Don´t forget anything with this simple app for write you To-Dos. 
+I made this project to practice some basic concepts of javascript, like arrow functions, OOP and localstorage.
 
 This project was build using the following technologies:
 * Javascript
